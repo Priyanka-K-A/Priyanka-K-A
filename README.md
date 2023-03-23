@@ -1,5 +1,5 @@
 <h1 align="center">Hey!!, I'm Priyanka Ashokan</h1>
-<h3 align="center">Aspiring Software developer | Tech-savy</h3>
+<h3 align="center">Aspiring Software developer | Tech-savvy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-k-a&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-k-a" /> </p>
 
